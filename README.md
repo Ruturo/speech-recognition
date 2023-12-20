@@ -9,10 +9,10 @@ ROTM (Robot of the Moment) is a desktop robot that can understand and respond to
 ### Step 2 : Setting Up
 Run "setup.bat" file to install the required libraries
 
-### Step 3 : Initiating the recognizor
+### Step 3 : Initiating the recognizer
 Run "main.py" `python main.py`
 
 
-## Requirments
+## Requirments:
 1. Python 3.12.1 or above
 
